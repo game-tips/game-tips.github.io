@@ -10,8 +10,8 @@ navbar_entries:
 
 project_entries:
   - title: FNaf Mechanics
-    url: fnaf-game
-    desc: This posts
+    url: fnaf-mechanics
+    desc: This post tells you how to defeat each animatronic in FNaF 1.
 
   - title: Project 2
     url: overview-post
