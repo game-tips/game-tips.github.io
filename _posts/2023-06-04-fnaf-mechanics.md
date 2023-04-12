@@ -1,8 +1,7 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: a1exsDev
 title: "How FNaF works, and how to beat it"
-tags: [horror, fnaf-series]
 ---
 
 Game
